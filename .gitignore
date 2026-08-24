@@ -1,0 +1,6 @@
+~$*
+*.tmp
+*.bak
+*.pbix.autosave
+.DS_Store
+Thumbs.db
